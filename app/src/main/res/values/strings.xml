@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DB4OServicioGeolo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="databerror">Error al crear la base de datos</string>
+    <string name="servOn">Iniciando servicio</string>
+    <string name="servOff">Deteniendo servicio</string>
+</resources>
